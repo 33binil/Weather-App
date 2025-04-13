@@ -7,7 +7,7 @@ Designed with a **dark minimalist UI** for a smooth user experience.
 
 ## 🚀 Live Demo
 
-👉 [Visit the Live Website]([https://your-live-site-link.com](https://weather-app-coral-seven-64.vercel.app))
+👉 [Visit the Live Website](https://weather-app-coral-seven-64.vercel.app)
 
 ---
 
